@@ -2,7 +2,7 @@
    - Precachea la app y la fuente Bravura (funciona sin conexión).
    - Cachea en tiempo de ejecución los sonidos del banco (mismo origen o GitHub raw).
    Sube VERSION cada vez que cambies archivos para forzar la actualización. */
-const VERSION = 'v1';
+const VERSION = 'v2';
 const CORE = `ritmo-core-${VERSION}`;
 const RUNTIME = `ritmo-runtime-${VERSION}`;
 const PRECACHE = [
